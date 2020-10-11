@@ -1,0 +1,21 @@
+{
+    "name": "agb3nu/turnaroundtime",
+    "description": "For calculating TATs",
+    "type": "package",
+    "license": "mit",    
+    "authors": [
+        {
+            "name": "Eli Agbenu",
+            "email": "agb3nu@gmail.com",
+		    "homepage": "https://agbenu.com"            
+        }
+    ],
+    "require": {
+        "php": ">=5.3.9"    	
+    },
+    "minimum-stability": "dev",    
+    "autoload": {
+        "psr-4": {"TurnAroundTime\\": "src/"}
+    }
+
+}
