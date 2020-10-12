@@ -10,9 +10,7 @@
 		    "homepage": "https://agbenu.com"            
         }
     ],
-    "require": {
-        "php": ">=5.3.9"    	
-    },
+    "require": {  },
     "minimum-stability": "stable",  
     "autoload": {
         "psr-4": {"TurnAroundTime\\": "src/"}
